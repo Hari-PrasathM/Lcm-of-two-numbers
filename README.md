@@ -1,0 +1,1 @@
+# Lcm-of-two-numbers
